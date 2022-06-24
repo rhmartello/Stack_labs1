@@ -1,0 +1,6 @@
+{
+	"user": "admin",
+	"password": "hive123*",
+	"endpoint": "hive-stacklabs.c4iipybyonnr.sa-east-1.rds.amazonaws.com",
+	"databasename": "Criptocurrency"
+}
